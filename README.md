@@ -1,7 +1,7 @@
 # IMDB-MOVIES-DATA-ANALYSIS
 ![imdbCapture](https://user-images.githubusercontent.com/74107667/183358945-4999298d-1aba-4981-81b1-ea6c540ce265.PNG)
 
-IMDb is an online database of information related to films, television series, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews. Wikipedia
+IMDB is an online database of information related to films, television series, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews. Wikipedia
 
 BASIC INFORMATIO ABOUT THE IMDB DATASET
 
